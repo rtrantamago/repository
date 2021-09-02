@@ -1,0 +1,12 @@
+/.../
+
+package edu.csci4320.antlab.pkg3;
+
+public class AntLab31 {
+    public AntLab31() {
+    }
+
+    public String getMessage() {
+        return " Who";
+    }
+}
